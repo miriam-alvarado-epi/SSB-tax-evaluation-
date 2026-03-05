@@ -12,8 +12,8 @@ We also assessed the potential impact of a 2023 school SSB ban on grocery store 
 Study Design
 
 The analyses use single-group and controlled interrupted time series designs:
-1.  Price analyses estimate mean percentage changes in sales-weighted cost per litre using log-transformed OLS regression with Newey-West standard errors.
-2.  Sales analyses estimate mean absolute and relative changes in weekly litres sold using OLS regression with Newey-West standard errors.
+1.  Price analyses estimate mean percentage changes in sales-weighted cost per litre using log-transformed OLS regression.
+2.  Sales analyses estimate mean absolute and relative changes in weekly litres sold using OLS regression.
 3.  Controlled analyses use white vinegar as an untaxed, non-beverage control product to strengthen the counterfactual, with volume rescaled.
 4.  Relative change estimation uses simulation (1,000 draws) from meta-analytic pooled estimates of absolute effects and counterfactual sales to construct 95% confidence intervals for percentage change.
 
